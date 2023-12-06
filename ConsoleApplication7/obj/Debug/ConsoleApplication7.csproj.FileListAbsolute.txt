@@ -1,0 +1,16 @@
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\guest\Desktop\GorustovichEkaterina\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+E:\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+E:\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+E:\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\gursk\source\repos\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojAssemblyReference.cache
